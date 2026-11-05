@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Compilado (no subir el .exe: publicalo como Release)
+build/
+dist/
+*.exe
+*.spec
+_internal/
+
+# Sistema
+Thumbs.db
+.DS_Store

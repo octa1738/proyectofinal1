@@ -1,0 +1,4 @@
+yt-dlp>=2024.1.1
+static-ffmpeg>=2.5
+customtkinter>=5.2.0
+pillow>=10.0.0
